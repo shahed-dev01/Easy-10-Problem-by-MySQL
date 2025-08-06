@@ -1,0 +1,1 @@
+# Easy-10-Problem-by-MySQL
